@@ -1,0 +1,7 @@
+C:\Users\P1254F4\source\repos\Caching\Caching\bin\Debug\Caching.exe.config
+C:\Users\P1254F4\source\repos\Caching\Caching\bin\Debug\Caching.exe
+C:\Users\P1254F4\source\repos\Caching\Caching\bin\Debug\Caching.pdb
+C:\Users\P1254F4\source\repos\Caching\Caching\obj\Debug\Caching.csproj.AssemblyReference.cache
+C:\Users\P1254F4\source\repos\Caching\Caching\obj\Debug\Caching.csproj.CoreCompileInputs.cache
+C:\Users\P1254F4\source\repos\Caching\Caching\obj\Debug\Caching.exe
+C:\Users\P1254F4\source\repos\Caching\Caching\obj\Debug\Caching.pdb
